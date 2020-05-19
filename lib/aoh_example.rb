@@ -16,6 +16,7 @@ def assembled_aoh
 end
 
 def literal_aoh
+  _Infinite_Jest_ = 
   
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
